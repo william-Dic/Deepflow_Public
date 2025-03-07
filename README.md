@@ -1,7 +1,7 @@
 # DeepFlow - Fully Autonomous Multimodal Input Agent
 
-## How to Use
 
+## How to Use
 1. **Install Dependencies**:
    - Clone the repo:
      ```bash
